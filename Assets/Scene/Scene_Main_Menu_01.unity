@@ -1829,12 +1829,12 @@ PrefabInstance:
         type: 3}
       propertyPath: mainTheme
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 506d772954d7aee468d1d80c57716c62, type: 3}
     - target: {fileID: 8188909424740712319, guid: 39214f8ed0db2f7479a8d999626c1df5,
         type: 3}
       propertyPath: menuTheme
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 506d772954d7aee468d1d80c57716c62, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 39214f8ed0db2f7479a8d999626c1df5, type: 3}
 --- !u!1 &2073522021
